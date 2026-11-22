@@ -4,7 +4,7 @@ Proyecto final de Ciencia de Datos. Se comparan tres modelos (Naive Bayes
 gaussiano, SVM y perceptrón multicapa) contra una regresión logística de
 referencia sobre el dataset Breast Cancer Wisconsin (Diagnostic) de UCI.
 
-*Autor:* [Rivera Briones Cristian Jesus]
+*Autor:* Rivera Briones Cristian Jesus
 
 ## Datos
 - Fuente: UCI Machine Learning Repository, Breast Cancer Wisconsin (Diagnostic).
