@@ -36,6 +36,10 @@ Abrir los notebooks con el kernel .venv y ejecutar todas las celdas en
 orden: primero 01_eda.ipynb y después 02_modelos.ipynb.
 La celda de variabilidad con 5 semillas tarda unos 6 minutos.
 
+## Observacion
+Se ejecuto desde otra pc con la version de python 3.15.2 y se observo una leve cambio en los rsultados, a causa de la version de python y de las librerias que de adaptan a dicha version.
+
+
 ## Reproducibilidad
 - Semilla principal: 42 (división 60/20/20 estratificada, validación
   cruzada de 5 folds y modelos).
