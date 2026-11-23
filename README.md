@@ -36,6 +36,9 @@ Abrir los notebooks con el kernel .venv y ejecutar todas las celdas en
 orden: primero 01_eda.ipynb y después 02_modelos.ipynb.
 La celda de variabilidad con 5 semillas tarda unos 6 minutos.
 
+Instalación probada en dos equipos con Windows: Python 3.13.12 y Python 3.15.
+El reporte en formato IEEE se encuentra en reports/reporte_final.pdf
+
 ## Observacion
 Se ejecuto desde otra pc con la version de python 3.15.2 y se observo una leve cambio en los rsultados, a causa de la version de python y de las librerias que de adaptan a dicha version.
 
